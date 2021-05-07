@@ -15,4 +15,4 @@ Course projects with the application of KNN, decision tree,regression, naive bay
 | ----------------------------------------------- |   
 | [Hengxian Jiang](https://github.com/Stanleyjhx) |
 | [Yingjie Xu](https://github.com/yingjie-xu)     |
-| Tianhao You |
+| [Tianhao You](https://github.com/WalterYou) |
